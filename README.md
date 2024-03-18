@@ -1,7 +1,7 @@
 > [!IMPORTANT]
-> This project is part of the [DevOpsTheHardWay][DevOpsTheHardWay] course. Please [onboard the course](onboarding_tutorial) before starting. 
+> This project is part of the [DevOpsTheHardWay][DevOpsTheHardWay] course. Please [onboard the course][onboarding_tutorial] before starting. 
 > 
-> If you find this project too challenging or encounter unfamiliar concepts like 'fork repo' or 'push commits,' please consider completing the [LinuxProject][LinuxProject] beforehand.
+> If you find this project too challenging, consider completing the [LinuxProject][LinuxProject] beforehand.
 
 # Bash Project  [![][autotest_badge]][autotest_workflow]
 
@@ -72,7 +72,7 @@ john@localhost:~$ echo $PATH
 
 Time to submit your solution for testing.
 
-1. Commit your changes. The **only** file that have to be committed is `.bash_profile`.
+1. Commit your changes. The **only** file that has to be committed is `.bash_profile`.
 2. Push your commits to GitHub. 
 3. In [GitHub Actions][github_actions], watch the automated test execution workflow (enable Actions if needed). 
    If there are any failures, click on the failed job and **read the test logs carefully**. Fix your solution, commit and push again.
