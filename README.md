@@ -14,8 +14,15 @@ Similarly to the [LinuxProject][LinuxProject], this project is aimed for beginne
 
 ## Preliminaries
 
-1. [Fork this repo][fork_github]. 
-2. [Clone your forked repository into a new PyCharm project][clone_pycharm].   
+1. Fork this repo by clicking **Fork** in the top-right corner of the page. 
+2. Clone your forked repository by:
+   ```bash
+   git clone https://github.com/<your-username>/<your-project-repo-name>
+   ```
+   Change `<your-username>` and `<your-project-repo-name>` according to your GitHub username and the name you gave to your fork. E.g. `git clone https://github.com/johndoe/BashProject`.
+3. Open the repo as a code project in your favorite IDE (Pycharm, VSCode, etc..).
+
+Later on, you are encouraged to change the `README.md` file content to provide relevant information about your project.
 
 Let's get started...
 
@@ -101,6 +108,4 @@ As it's only an exercise, we may not approve your pull request (approval would l
 [LinuxProject]: https://github.com/alonitac/LinuxProject
 [autotest_badge]: ../../actions/workflows/project_auto_testing.yaml/badge.svg?event=push
 [autotest_workflow]: ../../actions/workflows/project_auto_testing.yaml/
-[fork_github]: https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo#forking-a-repository
-[clone_pycharm]: https://www.jetbrains.com/help/pycharm/set-up-a-git-repository.html#clone-repo
 [github_actions]: ../../actions
