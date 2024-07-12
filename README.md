@@ -1,8 +1,3 @@
-> [!IMPORTANT]
-> This project is part of the [DevOpsTheHardWay][DevOpsTheHardWay] course. Please [onboard the course][onboarding_tutorial] before starting. 
-> 
-> If you find this project too challenging, consider completing the [LinuxProject][LinuxProject] beforehand.
-
 # Bash Project  [![][autotest_badge]][autotest_workflow]
 
 ## Project Goals
@@ -90,22 +85,10 @@ Upon successful test execution, you'll see a green checkmark (✅) and the follo
 Well Done! you've passed all tests
 ```
 
-### Share your project 
-
-You are highly encourages to share your project with others by creating a **Pull Request**.
-
-Create a Pull Request from your repo, branch `main` (e.g. `johndoe/BashProject`) into our project repo (i.e. `alonitac/BashProject`), branch `main`.  
-Feel free to explore other's pull requests to discover different solution approaches.
-
-As it's only an exercise, we may not approve your pull request (approval would lead your changes to be merged into our original project). 
-
-
 # Good Luck
 
 
-[DevOpsTheHardWay]: https://github.com/alonitac/DevOpsTheHardWay
-[onboarding_tutorial]: https://github.com/alonitac/DevOpsTheHardWay/blob/main/tutorials/onboarding.md
-[LinuxProject]: https://github.com/alonitac/LinuxProject
+[LinuxProject]: https://github.com/alonitac/INTLinuxProject
 [autotest_badge]: ../../actions/workflows/project_auto_testing.yaml/badge.svg?event=push
 [autotest_workflow]: ../../actions/workflows/project_auto_testing.yaml/
 [github_actions]: ../../actions
